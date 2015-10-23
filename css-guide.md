@@ -23,7 +23,7 @@ CSS编码风格指南。
 该命名规范主要解决以下问题：
 
 * 从类名可以清晰区分出其功能作用，使页面结构清晰【命名空间、标识符】；
-* 以组件、模块的思想去写一个区块的结构，强化结构的模块化【BEM模块思想、基类、子类、扩展类】；
+* 以组件、模块的思想去写一个区块的结构，强化结构的模块化；
 * 减少多人合作、项目耦合等情况下的命名冲突【命名空间】；
 
 ### 1.1 命名思想
@@ -730,6 +730,5 @@ CSS 的字重分 100 – 900 共九档，但目前受字体本身质量和浏览
 
 参考资料： 
 
-1. [bootcss编码规范](http://codeguide.bootcss.com/)
-2. [豆瓣CSS Code Guideline](https://github.com/kejun/CSS-Code-Guideline)
+1. [豆瓣CSS Code Guideline](https://github.com/kejun/CSS-Code-Guideline)
 2. [spec css style guide](https://github.com/ecomfe/spec/blob/master/css-style-guide.md)
