@@ -6,9 +6,6 @@ CSS编码风格指南。
 
 ---
 
-Douban CSS Code Guideline 
-===================
-
  1. CSS浏览器支持标准 
 -------------------
 
@@ -19,14 +16,12 @@ Douban CSS Code Guideline
 </td></tr><tr><td> IE7- </td><td> C  </td><td> C </td><td> 
 </td></tr><tr><td> Chrome </td><td> A  </td><td> A </td><td> A 
 </td></tr><tr><td> Firefox </td><td> A </td><td> A </td><td> A 
-</td></tr><tr><td> Safari </td><td> B  </td><td> B </td><td> B 
-</td></tr><tr><td> Opera </td><td> B  </td><td> B </td><td> B 
+</td></tr><tr><td> 其他 </td><td> B  </td><td> B </td><td> B 
 </td></tr></tbody></table>
 
 *  A级－交互和视觉完全符全设计的要求
 *  B级－视觉上允许有所差异，但不破坏页面的整体效果
 *  C级－可忽略设计上的细节，但不防碍使用
-
 
 2. 重用已有的样式库里的样式
 ---------------------
