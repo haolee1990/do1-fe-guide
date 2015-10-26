@@ -1,101 +1,7 @@
 
-原文: https://github.com/ecomfe/spec/blob/master/javascript-style-guide.md
 
-注：部分规范有删改
 
 # JavaScript编码规范
-
-
-
-[1 前言](#user-content-1-前言)
-
-[2 代码风格](#user-content-2-代码风格)
-
-　　[2.1 文件](#user-content-21-文件)
-
-　　[2.2 结构](#user-content-22-结构)
-
-　　　　[2.2.1 缩进](#user-content-221-缩进)
-
-　　　　[2.2.2 空格](#user-content-222-空格)
-
-　　　　[2.2.3 换行](#user-content-223-换行)
-
-　　　　[2.2.4 语句](#user-content-224-语句)
-
-　　[2.3 命名](#user-content-23-命名)
-
-　　[2.4 注释](#user-content-24-注释)
-
-　　　　[2.4.1 单行注释](#user-content-241-单行注释)
-
-　　　　[2.4.2 多行注释](#user-content-242-多行注释)
-
-　　　　[2.4.3 文档化注释](#user-content-243-文档化注释)
-
-　　　　[2.4.4 类型定义](#user-content-244-类型定义)
-
-　　　　[2.4.5 文件注释](#user-content-245-文件注释)
-
-　　　　[2.4.6 命名空间注释](#user-content-246-命名空间注释)
-
-　　　　[2.4.7 类注释](#user-content-247-类注释)
-
-　　　　[2.4.8 函数/方法注释](#user-content-248-函数/方法注释)
-
-　　　　[2.4.9 事件注释](#user-content-249-事件注释)
-
-　　　　[2.4.10 常量注释](#user-content-2410-常量注释)
-
-　　　　[2.4.11 复杂类型注释](#user-content-2411-复杂类型注释)
-
-　　　　[2.4.12 细节注释](#user-content-2413-细节注释)
-
-[3 语言特性](#user-content-3-语言特性)
-
-　　[3.1 变量](#user-content-31-变量)
-
-　　[3.2 条件](#user-content-32-条件)
-
-　　[3.3 循环](#user-content-33-循环)
-
-　　[3.4 类型](#user-content-34-类型)
-
-　　　　[3.4.1 类型检测](#user-content-341-类型检测)
-
-　　　　[3.4.2 类型转换](#user-content-342-类型转换)
-
-　　[3.5 字符串](#user-content-35-字符串)
-
-　　[3.6 对象](#user-content-36-对象)
-
-　　[3.7 数组](#user-content-37-数组)
-
-　　[3.8 函数](#user-content-38-函数)
-
-　　　　[3.8.1 函数长度](#user-content-381-函数长度)
-
-　　　　[3.8.2 参数设计](#user-content-382-参数设计)
-
-
-　　[3.9 面向对象](#user-content-39-面向对象)
-
-　　[3.10 动态特性](#user-content-310-动态特性)
-
-　　　　[3.10.1 eval](#user-content-3101-eval)
-
-　　　　[3.10.2 动态执行代码](#user-content-3102-动态执行代码)
-
-　
-
-[4 浏览器环境](#user-content-4-浏览器环境)
-
-　　[4.1 DOM](#42-dom)
-
-　　　　[4.1.1 DOM 操作](#user-content-424-dom-操作)
-
-　　　　[4.1.2 DOM 事件](#user-content-425-dom-事件)
-
 
 
 ## 1 前言
@@ -913,5 +819,6 @@ expando 属性绑定事件容易导致互相覆盖。
 
 
 
+参考资料： 
 
-
+1. [spec javascript编码规范](https://github.com/ecomfe/spec/blob/master/javascript-style-guide.md)
