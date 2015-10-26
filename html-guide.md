@@ -16,7 +16,6 @@ HTML规范指南。
 6. [表单](#6-表单)
 7. [注释](#7-注释)
 
-
 ## 1 代码风格
 
 ### 1.1 缩进
@@ -217,6 +216,5 @@ HTML规范指南。
 
 参考资料： 
 
-1. [bootcss编码规范](http://codeguide.bootcss.com/)
-2. [Google HTML编码规范](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
-3. [spec HTML编码规范](https://github.com/ecomfe/spec/blob/master/css-style-guide.md)
+1. [Google HTML编码规范](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
+2. [spec HTML编码规范](https://github.com/ecomfe/spec/blob/master/css-style-guide.md)
