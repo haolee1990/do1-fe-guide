@@ -217,4 +217,4 @@ HTML规范指南。
 参考资料： 
 
 1. [Google HTML编码规范](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
-2. [spec HTML编码规范](https://github.com/ecomfe/spec/blob/master/css-style-guide.md)
+2. [spec HTML编码规范](https://github.com/ecomfe/spec/blob/master/html-style-guide.md)
